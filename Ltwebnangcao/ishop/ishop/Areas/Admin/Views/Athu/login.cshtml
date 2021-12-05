@@ -1,0 +1,24 @@
+﻿@Model ishop.Areas.Admin.Controllers.Models.User
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLogin.cshtml";
+}
+@using (Html.BeginForm("Login", "Auth", FormMethod.Post))
+{
+    @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+    <h2 class="text-center text-danger text-uppercase ">Đăng Nhập hệ thống</h2>
+    <fieldset class="form-group">
+        <label for="forGroupEXampleInput">Tên đăng nhập</label>
+        @Html.TextBoxFor(model => model.Username, null, new { @class = "form-control" })
+    </fieldset>
+    <fieldset class="form-group">
+        <label for="formGroupExampleInput2">Mật khẩu</label>
+        @Html.TextBoxFor(model => model.Password, null, new { @class = "form-control" })
+    </fieldset>
+    <fieldset class="form-group">
+        <button type="submit" class="btn btn-success px-5"> ĐĂNG NHẬP</button>
+    </fieldset>
+    <fieldset class="form-group">
+        @ViewBag.Message
+    </fieldset>
+}

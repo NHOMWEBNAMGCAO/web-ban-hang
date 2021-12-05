@@ -1,0 +1,86 @@
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\ishop.dll.config
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\ishop.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\ishop.pdb
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.Razor.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.Razor.xml
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\obj\Debug\ishop.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\obj\Debug\ishop.pdb
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2013\Projects\ishop\ishop\obj\Debug\ishop.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\ishop.dll.config
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\ishop.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\ishop.pdb
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\Newtonsoft.Json.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Net.Http.Formatting.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Helpers.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Http.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Http.WebHost.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Mvc.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Razor.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.WebPages.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.WebPages.Razor.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\Newtonsoft.Json.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Net.Http.Formatting.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Helpers.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Http.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Http.WebHost.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Mvc.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.Razor.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.WebPages.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\System.Web.WebPages.Razor.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\obj\Debug\ishop.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\obj\Debug\ishop.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\obj\Debug\ishop.pdb
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\EntityFramework.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\EntityFramework.SqlServer.dll
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\EntityFramework.xml
+C:\Users\NGUYEN XUAN NAM\Downloads\ishop (1)\ishop\ishop\bin\EntityFramework.SqlServer.xml
+D:\Ltwebnangcao\ishop\ishop\bin\ishop.dll.config
+D:\Ltwebnangcao\ishop\ishop\bin\ishop.dll
+D:\Ltwebnangcao\ishop\ishop\bin\ishop.pdb
+D:\Ltwebnangcao\ishop\ishop\bin\EntityFramework.dll
+D:\Ltwebnangcao\ishop\ishop\bin\EntityFramework.SqlServer.dll
+D:\Ltwebnangcao\ishop\ishop\bin\Microsoft.Web.Infrastructure.dll
+D:\Ltwebnangcao\ishop\ishop\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Ltwebnangcao\ishop\ishop\bin\Newtonsoft.Json.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Net.Http.Formatting.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Helpers.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Http.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Http.WebHost.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Mvc.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Razor.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.WebPages.Deployment.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.WebPages.dll
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.WebPages.Razor.dll
+D:\Ltwebnangcao\ishop\ishop\bin\EntityFramework.xml
+D:\Ltwebnangcao\ishop\ishop\bin\EntityFramework.SqlServer.xml
+D:\Ltwebnangcao\ishop\ishop\bin\Newtonsoft.Json.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Net.Http.Formatting.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Helpers.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Http.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Http.WebHost.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Mvc.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.Razor.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.WebPages.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.WebPages.Deployment.xml
+D:\Ltwebnangcao\ishop\ishop\bin\System.Web.WebPages.Razor.xml
+D:\Ltwebnangcao\ishop\ishop\obj\Debug\ishop.csprojResolveAssemblyReference.cache
+D:\Ltwebnangcao\ishop\ishop\obj\Debug\ishop.dll
+D:\Ltwebnangcao\ishop\ishop\obj\Debug\ishop.pdb
